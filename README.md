@@ -1,5 +1,5 @@
 ## Thematic Dataset: Renewable Energy
-High quality thematic datasets repository related to renewable energy ecosystem such Large Scale Solar (LSS) farm.
+High quality thematic datasets repository related to renewable energy ecosystem.
 
 ## Datasets
 - Large Scale Solar (LSS) Farm
